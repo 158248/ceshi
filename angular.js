@@ -5,7 +5,7 @@
  */
 (function(window) {'use strict';
 
-/**
+/**1
  * @description
  *
  * This object provides a utility for producing rich Error messages within
